@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Pin Photos</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Pin Photos</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>隐私政策</title>
+      <link>/pages/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/pages/privacy/</guid>
+      <description>欢迎您访问我们的产品。
+Pin 相册 （包括 App 等产品提供的服务，以下简称“产品和服务”）是由 LatteHero （以下简称“我们”）开发并运营的。
+确保用户的数据安全和隐私保护是我们的首要任务， 本隐私政策载明了您访问和使用我们的产品和服务时所收集的数据及其处理方式。
+请您在继续使用我们的产品前务必认真仔细阅读并确认充分理解本隐私政策全部规则和要点， 一旦您选择使用，即视为您同意本隐私政策的全部内容，同意我们按其收集和使用您的相关信息。
+如您不同意相关协议或其中的任何条款的，您应停止使用我们的产品和服务。 本隐私政策帮助您了解以下内容：
+一、我们不收集，也不使用你的个人信息；
+二、我们不储存你的个人信息；
+三、我们不会共享，不会转让，也不会公开披露你的个人信息。
+如您对本政策有任何疑问，请通过 lattehero@163.com 或产品中的反馈方式与我们取得联系。</description>
+    </item>
+    
+  </channel>
+</rss>
